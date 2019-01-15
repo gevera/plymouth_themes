@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=lenovodar
+Description=A Plymouth theme for Lenovo
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/lenovodar
+ScriptFile=/usr/share/plymouth/themes/lenovodar/lenovodar.script

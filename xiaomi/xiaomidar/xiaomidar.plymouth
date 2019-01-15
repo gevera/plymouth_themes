@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=xiaomidar
+Description=A Plymouth theme for Xiaomi
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/xiaomidar
+ScriptFile=/usr/share/plymouth/themes/xiaomidar/xiaomidar.script

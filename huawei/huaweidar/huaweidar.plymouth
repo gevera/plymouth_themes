@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=huaweidar
+Description=A Plymouth theme for Huawei
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/huaweidar
+ScriptFile=/usr/share/plymouth/themes/huaweidar/huaweidar.script

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=hpdar
+Description=A Plymouth theme for HP
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hpdar
+ScriptFile=/usr/share/plymouth/themes/hpdar/hpdar.script

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=thinkdar
+Description=A Plymouth theme for Thinkpads
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/thinkdar
+ScriptFile=/usr/share/plymouth/themes/thinkdar/thinkdar.script

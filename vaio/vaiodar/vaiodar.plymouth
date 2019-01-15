@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=vaiodar
+Description=A Plymouth theme for VAIO
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/vaiodar
+ScriptFile=/usr/share/plymouth/themes/vaiodar/vaiodar.script

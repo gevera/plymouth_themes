@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=samsungdar
+Description=A Plymouth theme for Samsung
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/samsungdar
+ScriptFile=/usr/share/plymouth/themes/samsungdar/samsungdar.script

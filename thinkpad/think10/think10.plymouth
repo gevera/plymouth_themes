@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=lenovo10
+Description=Thinkpad a la Windows 10 boot splash theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/think10
+ScriptFile=/usr/share/plymouth/themes/think10/think10.script

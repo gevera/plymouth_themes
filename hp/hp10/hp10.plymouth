@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=hp10
+Description=Acer a la Windows 10 boot splash theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hp10
+ScriptFile=/usr/share/plymouth/themes/hp10/hp10.script

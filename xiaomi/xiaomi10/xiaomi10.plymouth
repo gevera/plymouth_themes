@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=xiaomi10
+Description=Acer a la Windows 10 boot splash theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/xiaomi10
+ScriptFile=/usr/share/plymouth/themes/xiaomi10/xiaomi10.script

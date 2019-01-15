@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=lenovo10
+Description=Lenovo a la Windows 10 boot splash theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/lenovo10
+ScriptFile=/usr/share/plymouth/themes/lenovo10/lenovo10.script

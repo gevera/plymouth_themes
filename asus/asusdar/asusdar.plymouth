@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=asusdar
+Description=A Plymouth theme for Asus
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/asusdar
+ScriptFile=/usr/share/plymouth/themes/asusdar/asusdar.script

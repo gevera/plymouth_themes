@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=samsung10
+Description=Acer a la Windows 10 boot splash theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/samsung10
+ScriptFile=/usr/share/plymouth/themes/samsung10/samsung10.script

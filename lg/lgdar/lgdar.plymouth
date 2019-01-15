@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=lgdar
+Description=A Plymouth theme for LG
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/lgdar
+ScriptFile=/usr/share/plymouth/themes/lgdar/lgdar.script

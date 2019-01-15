@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=acerdar
+Description=A Plymouth theme for Acer
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/acerdar
+ScriptFile=/usr/share/plymouth/themes/acerdar/acerdar.script
